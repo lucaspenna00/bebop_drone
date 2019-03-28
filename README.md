@@ -47,3 +47,6 @@ $ rostopic type [TOPIC_NAME]
 See the Bebop camera image:
 
 $ rosrun rqt_image_view rqt_image_view --force-discover
+
+More information:
+https://bebop-autonomy.readthedocs.io/en/latest/
