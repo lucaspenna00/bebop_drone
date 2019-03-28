@@ -1,0 +1,1 @@
+/home/lucas/bebop_ws/devel/.private/bebop_tools/lib/pkgconfig/bebop_tools.pc
