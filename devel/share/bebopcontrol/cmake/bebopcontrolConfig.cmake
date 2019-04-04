@@ -1,0 +1,1 @@
+/home/lucas/bebop_ws/devel/.private/bebopcontrol/share/bebopcontrol/cmake/bebopcontrolConfig.cmake

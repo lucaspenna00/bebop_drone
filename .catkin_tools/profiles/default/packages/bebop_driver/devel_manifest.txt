@@ -1,0 +1,14 @@
+bebop_autonomy/bebop_driver
+/home/lucas/bebop_ws/devel/.private/bebop_driver/include/bebop_driver/BebopArdrone3Config.h /home/lucas/bebop_ws/devel/include/bebop_driver/BebopArdrone3Config.h
+/home/lucas/bebop_ws/devel/.private/bebop_driver/lib/libbebop_driver_nodelet.so /home/lucas/bebop_ws/devel/lib/libbebop_driver_nodelet.so
+/home/lucas/bebop_ws/devel/.private/bebop_driver/lib/libbebop.so /home/lucas/bebop_ws/devel/lib/libbebop.so
+/home/lucas/bebop_ws/devel/.private/bebop_driver/lib/python2.7/dist-packages/bebop_driver/__init__.py /home/lucas/bebop_ws/devel/lib/python2.7/dist-packages/bebop_driver/__init__.py
+/home/lucas/bebop_ws/devel/.private/bebop_driver/lib/python2.7/dist-packages/bebop_driver/cfg/BebopArdrone3Config.py /home/lucas/bebop_ws/devel/lib/python2.7/dist-packages/bebop_driver/cfg/BebopArdrone3Config.py
+/home/lucas/bebop_ws/devel/.private/bebop_driver/lib/python2.7/dist-packages/bebop_driver/cfg/__init__.py /home/lucas/bebop_ws/devel/lib/python2.7/dist-packages/bebop_driver/cfg/__init__.py
+/home/lucas/bebop_ws/devel/.private/bebop_driver/lib/bebop_driver/bebop_driver_node /home/lucas/bebop_ws/devel/lib/bebop_driver/bebop_driver_node
+/home/lucas/bebop_ws/devel/.private/bebop_driver/lib/pkgconfig/bebop_driver.pc /home/lucas/bebop_ws/devel/lib/pkgconfig/bebop_driver.pc
+/home/lucas/bebop_ws/devel/.private/bebop_driver/share/bebop_driver/docs/BebopArdrone3Config-usage.dox /home/lucas/bebop_ws/devel/share/bebop_driver/docs/BebopArdrone3Config-usage.dox
+/home/lucas/bebop_ws/devel/.private/bebop_driver/share/bebop_driver/docs/BebopArdrone3Config.wikidoc /home/lucas/bebop_ws/devel/share/bebop_driver/docs/BebopArdrone3Config.wikidoc
+/home/lucas/bebop_ws/devel/.private/bebop_driver/share/bebop_driver/docs/BebopArdrone3Config.dox /home/lucas/bebop_ws/devel/share/bebop_driver/docs/BebopArdrone3Config.dox
+/home/lucas/bebop_ws/devel/.private/bebop_driver/share/bebop_driver/cmake/bebop_driverConfig-version.cmake /home/lucas/bebop_ws/devel/share/bebop_driver/cmake/bebop_driverConfig-version.cmake
+/home/lucas/bebop_ws/devel/.private/bebop_driver/share/bebop_driver/cmake/bebop_driverConfig.cmake /home/lucas/bebop_ws/devel/share/bebop_driver/cmake/bebop_driverConfig.cmake
