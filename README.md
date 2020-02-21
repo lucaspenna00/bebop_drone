@@ -1,6 +1,6 @@
 # bebop_ws
 # Bebop ROS Workspace
-This repository contains the software developed aiming the International Micro Air Vehicle Conference and Competition indoor tasks. Thus, it includes drone control and computational vision applications.
+This repository includes drone control and computational vision applications.
 It supposes you have installed the Robotic Operating System (ROS), OpenCV2, Pyzbar, Numpy and others dependences. 
 
 ![](bebop2github.gif)
