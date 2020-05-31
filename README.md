@@ -23,7 +23,7 @@ $ rosdep install --from-paths src -i
 ### Build the workspace
 $ catkin build
 
-# Running the Workspace applications
+# Running Workspace applications
 
 Firstly, you need to run the Bebop ROS drive (in order to run all others applications)
 
